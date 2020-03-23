@@ -20,3 +20,4 @@ https://qiita.com/ikkou/items/d4711eb74afa000ea481
 - サンプルに、nft-videoというディレクトリがあり、そこに動画を再生するサンプルがあった。Ver. 3の公開前にTwitterでチラ見せしていたやつだった。トリガー画像はピンボールの台だった。
 - そこで本家をfolkして（EasternCloud/AR.js）、動画部分だけをYouTubeにしてみたが動かず。重すぎるからかと少し待ってみたが、Loadingが終わっても黒い画面のままだった。
 - 仕方なく動画を同一フォルダに入れてみたら、やっと動いた。
+- ちなみに、本家も参考にしたサイトも、githackなどgithub以外のサービスを使っていたが、githubの機能（id.github.io）で普通に動いた。
